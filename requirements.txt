@@ -24,7 +24,7 @@ pandas==2.2.2
 matplotlib==3.8.4
 
 # OpenCV (headless for servers)
-opencv-python-headless==4.9.0.80
+opencv-python-headless==4.12.0.88
 
 # Deep learning stack
 # torch==2.2.2
