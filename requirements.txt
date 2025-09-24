@@ -1,40 +1,9 @@
-# streamlit==1.27.2
-# numpy==1.26.4
-# pandas==2.2.2
-# matplotlib==3.8.4
-
-# # OpenCV (headless for servers)
-# opencv-python-headless==4.9.0.80
-
-# # # Deep learning stack
-# # torch==2.2.2
-# # torchvision==0.17.2
-
-# # # YOLO + helpers
-# # ultralytics==8.1.47
-#  supervision==0.19.0
-# torch==2.8.0
-# torchvision==0.18.1
-# ultralytics==8.0.137
-# #supervision==0.17.1
-
-streamlit==1.27.2
-numpy==1.26.4
-pandas==2.2.2
-matplotlib==3.8.4
-
-# OpenCV (headless for servers)
+streamlit==1.50.0
+numpy==2.2.6
+pandas==2.3.2
+matplotlib==3.10.6
 opencv-python-headless==4.12.0.88
-
-# Deep learning stack
-# torch==2.2.2
-# torchvision==0.17.2
-
-# # YOLO + helpers
-# ultralytics==8.1.47
-# supervision==0.19.0
-
-torch==2.2.1
-torchvision==0.17.1
-ultralytics>=8.3.0
-supervision==0.17.0
+torch==2.8.0
+torchvision==0.23.0
+ultralytics==8.3.203
+supervision==0.26.1
