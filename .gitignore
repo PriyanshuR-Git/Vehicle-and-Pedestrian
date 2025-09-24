@@ -4,6 +4,7 @@ ByteTrack
 images
 labels
 runs
+req.txt
 test_images
 classes.txt
 evaluation_metrics.txt
