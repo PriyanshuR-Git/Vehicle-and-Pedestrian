@@ -104,7 +104,7 @@ if st.button("🚀 Start Tracking"):
     st.info("Processing video… This may take a few minutes depending on size.")
     t0 = time.time()
 
-    model = YOLO("runs/train/my_yolo_model/weights/best.pt")
+    model = YOLO("best.pt")  
 
     VEHICLE_CLASSES = {0}
     PEDESTRIAN_CLASSES = {1}
