@@ -1,17 +1,8 @@
-# Core
 streamlit==1.29.0
-
-# Scientific / numerical
-numpy==1.26.5
-pandas==2.1.1
-matplotlib==3.8.1
-
-# Computer vision
+numpy==1.25.2
 opencv-python-headless==4.8.1.78
-ultralytics==8.0.137
-supervision==0.16.1
-
-# Deep learning
 torch==2.3.1
 torchvision==0.17.1
 torchaudio==2.3.1
+ultralytics==8.0.137
+supervision==0.16.1
